@@ -1,0 +1,8 @@
+.searchBox {
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+
+.searchBox__input {
+	height: 30px;
+}
